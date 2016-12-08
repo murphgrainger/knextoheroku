@@ -2,7 +2,7 @@
 
 * This is just a test app for Heroku deployment.  Example routes below:
 
-* Routes
+Routes
 * GET /sports, GET /sports/:id
 * POST /sports
 {
