@@ -6,8 +6,10 @@ Routes
 * GET /sports, GET /sports/:id
 * POST /sports
 {
-name: 
-type: 
+name:
+type:
 gender:
 origin:
 }
+
+Deployed API: https://murphs-heroku.herokuapp.com/
